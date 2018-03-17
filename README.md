@@ -1,4 +1,4 @@
-#miniXML
+# miniXML
 
  Simple and small XML parsing and validating library for C.
 
